@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/acm.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/twilio-java-sdk-7.0.0-rc-10.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/jackson-annotations-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/jackson-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/jackson-databind-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/jjwt-0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/joda-time-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="/Users/karimkayssi/Desktop/BAU/MAJOR CS/Fall 2018/CMPS347,DataST/From Dr./twilio-jar_files/twilio-7.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="libr" systemlibrary="false">
+        <archive path="/Users/karimkayssi/Desktop/acm.jar"/>
+    </library>
+    <library name="library" systemlibrary="false">
+        <archive path="/Resto/lib/activation-1.1.jar"/>
+        <archive path="/Resto/lib/commons-codec-1.9.jar"/>
+        <archive path="/Resto/lib/commons-logging-1.2.jar"/>
+        <archive path="/Resto/lib/guava-18.0.jar"/>
+        <archive path="/Resto/lib/httpclient-4.5.2.jar"/>
+        <archive path="/Resto/lib/httpcore-4.4.4.jar"/>
+        <archive path="/Resto/lib/jackson-annotations-2.4.3.jar"/>
+        <archive path="/Resto/lib/jackson-core-2.4.3.jar"/>
+        <archive path="/Resto/lib/jackson-databind-2.4.3.jar"/>
+        <archive path="/Resto/lib/jaxb-api-2.2.jar"/>
+        <archive path="/Resto/lib/jjwt-0.4.jar"/>
+        <archive path="/Resto/lib/joda-time-2.5.jar"/>
+        <archive path="/Resto/lib/slf4j-api-1.7.6.jar"/>
+        <archive path="/Resto/lib/stax-api-1.0-2.jar"/>
+        <archive path="/Resto/lib/twilio-7.1.0.jar"/>
+    </library>
+</eclipse-userlibraries>
